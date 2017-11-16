@@ -1,25 +1,25 @@
 # ETrapp-IOS
 IOS repo for Etrapp
 
-Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Requirements
+### Requirements
 
-Xcode 9.1
-Swift 4
+- Xcode 9.1
+- Swift 4
 
-Authors
+## Authors
 
-Josep Ballber
-Javier Bonet
-Tan Kin Tat
+* Josep Ballber
+* Javier Bonet
+* Tan Kin Tat
 
-License
+## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Acknowledgments
+## Acknowledgments
 
-Hat tip to anyone who's code was used
+* Hat tip to anyone who's code was used
